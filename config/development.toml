@@ -1,0 +1,15 @@
+[urls]
+
+[db]
+  [[db.datasources]]
+  name                = "default-db"
+  access_type         = "password"
+  username            = "DBUser"
+  password            = "DBPassword"
+  schema              = "ntu_mods"
+  [db.datasources.options]
+    host              = "localhost"
+    timezone          = "+08:00"
+    dialect           = "mysql"
+    [db.datasources.options.dialectOptions]
+      decimalNumbers  = true

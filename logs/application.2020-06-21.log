@@ -1,0 +1,369 @@
+20200621 18:12:01.759 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:12:01.771 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:12:01.788 init datasource default-db
+20200621 18:12:03.110 connect datasource success default-db
+20200621 18:12:16.467 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:12:16.477 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:12:16.485 init datasource default-db
+20200621 18:12:16.716 connect datasource success default-db
+20200621 18:12:47.242 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:12:47.250 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:12:47.261 init datasource default-db
+20200621 18:12:47.630 connect datasource success default-db
+20200621 18:12:53.018 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:12:53.025 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:12:53.035 init datasource default-db
+20200621 18:12:53.253 connect datasource success default-db
+20200621 18:14:31.045 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:14:31.052 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:14:31.057 init datasource default-db
+20200621 18:14:31.279 connect datasource success default-db
+20200621 18:14:55.695 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:14:55.701 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:14:55.707 init datasource default-db
+20200621 18:14:56.012 connect datasource success default-db
+20200621 18:16:33.756 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:16:33.790 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:16:33.801 init datasource default-db
+20200621 18:16:34.085 connect datasource success default-db
+20200621 18:19:24.339 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:19:24.347 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:19:24.356 init datasource default-db
+20200621 18:19:24.463 endpoints list:
+  GET     /api/v1/module/list
+  POST    /api/v1/module/create
+  POST    /api/v1/module/:module_id/update
+  GET     /api/v1/module/:module_id/detail
+  DELETE  /api/v1/module/:module_id/delete
+20200621 18:19:24.467 server listening on 8181
+20200621 18:19:24.626 connect datasource success default-db
+20200621 18:23:31.616 m: prepare_request
+20200621 18:23:31.623 m: parse_query
+20200621 18:23:31.624 m: validate
+20200621 18:23:31.841 000002  500 GET /list
+20200621 18:23:49.462 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:23:49.469 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:23:49.476 init datasource default-db
+20200621 18:23:49.592 endpoints list:
+  GET     /api/v1/module/list
+  POST    /api/v1/module/create
+  POST    /api/v1/module/:module_id/update
+  GET     /api/v1/module/:module_id/detail
+  DELETE  /api/v1/module/:module_id/delete
+20200621 18:23:49.596 server listening on 8181
+20200621 18:23:49.735 connect datasource success default-db
+20200621 18:24:09.029 m: prepare_request
+20200621 18:24:09.032 m: parse_query
+20200621 18:24:09.033 m: validate
+20200621 18:24:09.127 000001  500 GET /list
+20200621 18:24:31.941 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:24:31.948 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:24:31.966 init datasource default-db
+20200621 18:24:32.094 endpoints list:
+  GET     /api/v1/module/list
+  POST    /api/v1/module/create
+  POST    /api/v1/module/:module_id/update
+  GET     /api/v1/module/:module_id/detail
+  DELETE  /api/v1/module/:module_id/delete
+20200621 18:24:32.101 server listening on 8181
+20200621 18:24:32.235 connect datasource success default-db
+20200621 18:24:35.331 m: prepare_request
+20200621 18:24:35.340 m: parse_query
+20200621 18:24:35.344 m: validate
+20200621 18:24:35.367 000001  200 GET /api/v1/module/list
+20200621 18:43:36.479 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:43:36.487 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:43:36.496 init datasource default-db
+20200621 18:43:36.604 endpoints list:
+  GET     /api/v1/module/list
+  POST    /api/v1/module/create
+  POST    /api/v1/module/:module_id/update
+  GET     /api/v1/module/:module_id/detail
+  DELETE  /api/v1/module/:module_id/delete
+20200621 18:43:36.607 server listening on 8181
+20200621 18:43:36.785 connect datasource success default-db
+20200621 18:43:51.901 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 18:43:51.909 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 18:43:51.920 init datasource default-db
+20200621 18:43:52.254 connect datasource success default-db
+20200621 19:05:59.118 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/development.toml"
+20200621 19:05:59.124 loading config "F:\Users\Work\code\projects\ntu_mods_core\config/local.toml"
+20200621 19:05:59.127 init datasource default-db
+20200621 19:05:59.284 endpoints list:
+  GET     /api/v1/module/list
+  POST    /api/v1/module/create
+  POST    /api/v1/module/:module_id/update
+  GET     /api/v1/module/:module_id/detail
+  DELETE  /api/v1/module/:module_id/delete
+20200621 19:05:59.289 server listening on 8181
+20200621 19:05:59.433 connect datasource success default-db
+20200621 19:06:01.169 m: prepare_request
+20200621 19:06:01.172 m: parse_query
+20200621 19:06:01.174 m: validate
+20200621 19:06:01.203 000002  200 GET /api/v1/module/list
+20200621 19:25:51.226 m: prepare_request
+20200621 19:25:51.231 000002  404 GET /api/v1/public/info
+20200621 19:26:02.375 m: prepare_request
+20200621 19:26:02.379 000002  404 GET /api/v1/public/info
+20200621 19:48:40.349 m: prepare_request
+20200621 19:48:40.353 000002  404 GET /api/v1undefined
+20200621 19:49:16.988 m: prepare_request
+20200621 19:49:16.989 m: parse_query
+20200621 19:49:16.990 m: validate
+20200621 19:49:17.349 000001  200 GET /api/v1/module/list
+20200621 19:51:21.216 m: prepare_request
+20200621 19:51:21.217 m: parse_query
+20200621 19:51:21.218 m: validate
+20200621 19:51:21.332 000002  304 GET /api/v1/module/list
+20200621 19:51:42.263 m: prepare_request
+20200621 19:51:42.264 m: parse_query
+20200621 19:51:42.265 m: validate
+20200621 19:51:42.291 000002  304 GET /api/v1/module/list
+20200621 19:52:22.807 m: prepare_request
+20200621 19:52:22.813 m: parse_query
+20200621 19:52:22.815 m: validate
+20200621 19:52:22.878 000002  304 GET /api/v1/module/list
+20200621 19:52:46.291 m: prepare_request
+20200621 19:52:46.292 m: parse_query
+20200621 19:52:46.294 m: validate
+20200621 19:52:46.339 000002  304 GET /api/v1/module/list
+20200621 19:52:57.524 m: prepare_request
+20200621 19:52:57.530 m: parse_query
+20200621 19:52:57.531 m: validate
+20200621 19:52:57.601 000002  304 GET /api/v1/module/list
+20200621 19:53:19.613 m: prepare_request
+20200621 19:53:19.614 m: parse_query
+20200621 19:53:19.615 m: validate
+20200621 19:53:19.682 000001  304 GET /api/v1/module/list
+20200621 19:53:27.798 m: prepare_request
+20200621 19:53:27.799 m: parse_query
+20200621 19:53:27.799 m: validate
+20200621 19:53:27.822 000001  200 GET /api/v1/module/list
+20200621 19:53:27.848 m: prepare_request
+20200621 19:53:27.854 m: parse_query
+20200621 19:53:27.855 m: validate
+20200621 19:53:27.894 000001  200 GET /api/v1/module/list
+20200621 19:53:30.242 m: prepare_request
+20200621 19:53:30.243 m: parse_query
+20200621 19:53:30.245 m: validate
+20200621 19:53:30.270 000002  304 GET /api/v1/module/list
+20200621 19:53:30.293 m: prepare_request
+20200621 19:53:30.296 m: parse_query
+20200621 19:53:30.308 m: validate
+20200621 19:53:30.361 000001  304 GET /api/v1/module/list
+20200621 19:53:32.554 m: prepare_request
+20200621 19:53:32.555 m: parse_query
+20200621 19:53:32.556 m: validate
+20200621 19:53:32.573 000001  200 GET /api/v1/module/list
+20200621 19:53:32.586 m: prepare_request
+20200621 19:53:32.589 m: parse_query
+20200621 19:53:32.589 m: validate
+20200621 19:53:32.596 000002  304 GET /api/v1/module/list
+20200621 19:53:42.473 m: prepare_request
+20200621 19:53:42.475 m: parse_query
+20200621 19:53:42.476 m: validate
+20200621 19:53:42.497 000002  304 GET /api/v1/module/list
+20200621 19:53:42.519 m: prepare_request
+20200621 19:53:42.520 m: parse_query
+20200621 19:53:42.521 m: validate
+20200621 19:53:42.530 000002  304 GET /api/v1/module/list
+20200621 20:19:22.300 m: prepare_request
+20200621 20:19:22.302 m: parse_query
+20200621 20:19:22.304 m: validate
+20200621 20:19:22.426 000001  304 GET /api/v1/module/list
+20200621 20:20:53.831 m: prepare_request
+20200621 20:20:53.832 m: parse_query
+20200621 20:20:53.833 m: validate
+20200621 20:20:53.908 000002  304 GET /api/v1/module/list
+20200621 20:20:55.543 m: prepare_request
+20200621 20:20:55.543 m: parse_query
+20200621 20:20:55.544 m: validate
+20200621 20:20:55.562 000002  304 GET /api/v1/module/list
+20200621 20:23:10.318 m: prepare_request
+20200621 20:23:10.319 m: parse_query
+20200621 20:23:10.319 m: validate
+20200621 20:23:10.365 000002  304 GET /api/v1/module/list
+20200621 20:23:11.827 m: prepare_request
+20200621 20:23:11.827 m: parse_query
+20200621 20:23:11.827 m: validate
+20200621 20:23:11.852 000001  304 GET /api/v1/module/list
+20200621 20:23:20.267 m: prepare_request
+20200621 20:23:20.268 m: parse_query
+20200621 20:23:20.268 m: validate
+20200621 20:23:20.282 000002  304 GET /api/v1/module/list
+20200621 20:24:13.322 m: prepare_request
+20200621 20:24:13.323 m: parse_query
+20200621 20:24:13.323 m: validate
+20200621 20:24:13.347 000001  304 GET /api/v1/module/list
+20200621 20:27:26.885 m: prepare_request
+20200621 20:27:26.902 m: load_model module
+20200621 20:27:27.032 m: validate
+20200621 20:27:27.069 000002  200 GET /api/v1/module/1/detail
+20200621 20:27:28.007 m: prepare_request
+20200621 20:27:28.008 m: parse_query
+20200621 20:27:28.008 m: validate
+20200621 20:27:28.023 000001  304 GET /api/v1/module/list
+20200621 20:28:02.172 m: prepare_request
+20200621 20:28:02.173 m: load_model module
+20200621 20:28:02.298 m: validate
+20200621 20:28:02.309 000002  304 GET /api/v1/module/1/detail
+20200621 20:29:09.677 m: prepare_request
+20200621 20:29:09.678 m: load_model module
+20200621 20:29:09.711 m: validate
+20200621 20:29:09.730 000002  304 GET /api/v1/module/1/detail
+20200621 20:30:59.245 m: prepare_request
+20200621 20:30:59.246 m: load_model module
+20200621 20:30:59.362 m: validate
+20200621 20:30:59.370 000002  304 GET /api/v1/module/1/detail
+20200621 20:31:00.915 m: prepare_request
+20200621 20:31:00.916 m: parse_query
+20200621 20:31:00.916 m: validate
+20200621 20:31:00.963 000003  304 GET /api/v1/module/list
+20200621 20:31:14.064 m: prepare_request
+20200621 20:31:14.066 m: load_model module
+20200621 20:31:14.084 m: validate
+20200621 20:31:14.125 000002  304 GET /api/v1/module/1/detail
+20200621 20:31:17.277 m: prepare_request
+20200621 20:31:17.277 m: parse_query
+20200621 20:31:17.277 m: validate
+20200621 20:31:17.293 000002  304 GET /api/v1/module/list
+20200621 20:31:49.136 m: prepare_request
+20200621 20:31:49.138 m: load_model module
+20200621 20:31:49.159 m: validate
+20200621 20:31:49.166 000001  304 GET /api/v1/module/1/detail
+20200621 20:31:53.136 m: prepare_request
+20200621 20:31:53.137 m: load_model module
+20200621 20:31:53.139 m: validate
+20200621 20:31:53.164 000000  304 GET /module/1/detail
+20200621 20:32:52.302 m: prepare_request
+20200621 20:32:52.303 m: load_model module
+20200621 20:32:52.353 m: validate
+20200621 20:32:52.375 000003  304 GET /api/v1/module/1/detail
+20200621 20:33:08.786 m: prepare_request
+20200621 20:33:08.787 m: load_model module
+20200621 20:33:08.814 m: validate
+20200621 20:33:08.858 000002  304 GET /api/v1/module/1/detail
+20200621 20:35:23.434 m: prepare_request
+20200621 20:35:23.435 m: load_model module
+20200621 20:35:23.455 m: validate
+20200621 20:35:23.462 000003  304 GET /api/v1/module/1/detail
+20200621 20:35:41.082 m: prepare_request
+20200621 20:35:41.083 m: load_model module
+20200621 20:35:41.124 m: validate
+20200621 20:35:41.132 000002  304 GET /api/v1/module/1/detail
+20200621 20:35:58.451 m: prepare_request
+20200621 20:35:58.451 m: load_model module
+20200621 20:35:58.474 m: validate
+20200621 20:35:58.491 000002  304 GET /api/v1/module/1/detail
+20200621 20:39:51.602 m: prepare_request
+20200621 20:39:51.603 m: load_model module
+20200621 20:39:51.627 m: validate
+20200621 20:39:51.654 000001  304 GET /api/v1/module/1/detail
+20200621 20:40:33.974 m: prepare_request
+20200621 20:40:33.975 m: load_model module
+20200621 20:40:33.992 m: validate
+20200621 20:40:34.004 000002  304 GET /api/v1/module/1/detail
+20200621 20:41:07.795 m: prepare_request
+20200621 20:41:07.798 m: load_model module
+20200621 20:41:07.881 m: validate
+20200621 20:41:07.973 000002  304 GET /api/v1/module/1/detail
+20200621 20:42:59.085 m: prepare_request
+20200621 20:42:59.086 m: load_model module
+20200621 20:42:59.121 m: validate
+20200621 20:42:59.130 000002  304 GET /api/v1/module/1/detail
+20200621 20:43:16.142 m: prepare_request
+20200621 20:43:16.144 m: load_model module
+20200621 20:43:16.162 m: validate
+20200621 20:43:16.168 000002  304 GET /api/v1/module/1/detail
+20200621 20:43:25.125 m: prepare_request
+20200621 20:43:25.126 m: load_model module
+20200621 20:43:25.130 m: validate
+20200621 20:43:25.141 000001  304 GET /api/v1/module/1/detail
+20200621 20:43:36.076 m: prepare_request
+20200621 20:43:36.077 m: load_model module
+20200621 20:43:36.088 m: validate
+20200621 20:43:36.095 000001  304 GET /api/v1/module/1/detail
+20200621 20:43:54.216 m: prepare_request
+20200621 20:43:54.219 m: load_model module
+20200621 20:43:54.239 m: validate
+20200621 20:43:54.258 000002  304 GET /api/v1/module/1/detail
+20200621 20:44:05.066 m: prepare_request
+20200621 20:44:05.067 m: load_model module
+20200621 20:44:05.072 m: validate
+20200621 20:44:05.079 000002  304 GET /api/v1/module/1/detail
+20200621 20:44:25.180 m: prepare_request
+20200621 20:44:25.181 m: load_model module
+20200621 20:44:25.201 m: validate
+20200621 20:44:25.223 000001  304 GET /api/v1/module/1/detail
+20200621 20:44:44.555 m: prepare_request
+20200621 20:44:44.557 m: load_model module
+20200621 20:44:44.609 m: validate
+20200621 20:44:44.615 000001  304 GET /api/v1/module/1/detail
+20200621 20:45:02.540 m: prepare_request
+20200621 20:45:02.542 m: load_model module
+20200621 20:45:02.574 m: validate
+20200621 20:45:02.580 000000  304 GET /module/1/detail
+20200621 20:46:08.777 m: prepare_request
+20200621 20:46:08.780 m: load_model module
+20200621 20:46:08.793 m: validate
+20200621 20:46:08.806 000002  304 GET /api/v1/module/1/detail
+20200621 20:46:21.419 m: prepare_request
+20200621 20:46:21.419 m: load_model module
+20200621 20:46:21.445 m: validate
+20200621 20:46:21.451 000001  304 GET /api/v1/module/1/detail
+20200621 20:48:32.982 m: prepare_request
+20200621 20:48:32.983 m: load_model module
+20200621 20:48:33.020 m: validate
+20200621 20:48:33.027 000001  304 GET /api/v1/module/1/detail
+20200621 20:48:54.071 m: prepare_request
+20200621 20:48:54.072 m: load_model module
+20200621 20:48:54.090 m: validate
+20200621 20:48:54.117 000002  304 GET /api/v1/module/1/detail
+20200621 20:48:59.932 m: prepare_request
+20200621 20:48:59.933 m: load_model module
+20200621 20:48:59.939 m: validate
+20200621 20:48:59.975 000000  304 GET /api/v1/module/1/detail
+20200621 20:49:08.251 m: prepare_request
+20200621 20:49:08.252 m: load_model module
+20200621 20:49:08.257 m: validate
+20200621 20:49:08.264 000002  304 GET /api/v1/module/1/detail
+20200621 20:50:11.334 m: prepare_request
+20200621 20:50:11.336 m: load_model module
+20200621 20:50:11.358 m: validate
+20200621 20:50:11.372 000002  304 GET /api/v1/module/1/detail
+20200621 20:50:31.619 m: prepare_request
+20200621 20:50:31.620 m: load_model module
+20200621 20:50:31.673 m: validate
+20200621 20:50:31.678 000000  304 GET /module/1/detail
+20200621 20:51:00.451 m: prepare_request
+20200621 20:51:00.452 m: load_model module
+20200621 20:51:00.459 m: validate
+20200621 20:51:00.467 000003  304 GET /api/v1/module/1/detail
+20200621 20:51:05.732 m: prepare_request
+20200621 20:51:05.733 m: load_model module
+20200621 20:51:05.737 m: validate
+20200621 20:51:05.753 000000  304 GET /api/v1/module/1/detail
+20200621 20:51:34.559 m: prepare_request
+20200621 20:51:34.560 m: load_model module
+20200621 20:51:34.592 m: validate
+20200621 20:51:34.627 000002  304 GET /api/v1/module/1/detail
+20200621 20:52:14.071 m: prepare_request
+20200621 20:52:14.072 m: load_model module
+20200621 20:52:14.086 m: validate
+20200621 20:52:14.091 000001  304 GET /api/v1/module/1/detail
+20200621 20:56:05.036 m: prepare_request
+20200621 20:56:05.039 m: load_model module
+20200621 20:56:05.128 m: validate
+20200621 20:56:05.135 000001  304 GET /api/v1/module/1/detail
+20200621 20:56:59.007 m: prepare_request
+20200621 20:56:59.009 m: load_model module
+20200621 20:56:59.048 m: validate
+20200621 20:56:59.068 000002  304 GET /api/v1/module/1/detail
+20200621 20:58:18.460 m: prepare_request
+20200621 20:58:18.461 m: load_model module
+20200621 20:58:18.521 m: validate
+20200621 20:58:18.535 000002  304 GET /api/v1/module/1/detail
+20200621 20:58:28.879 m: prepare_request
+20200621 20:58:28.880 m: load_model module
+20200621 20:58:28.885 m: validate
+20200621 20:58:28.915 000001  304 GET /api/v1/module/1/detail
